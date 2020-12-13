@@ -121,8 +121,13 @@ function onResize () {
 function animate() {
   window.requestAnimationFrame(animate)
   render()
+
 }
 
+
+/**
+ * Animate the
+ */
 
 /**
   Render loop
