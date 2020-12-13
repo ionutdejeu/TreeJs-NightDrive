@@ -140,7 +140,6 @@ function render () {
     renderer.render(scene, camera)
   }
   
-
   if (DEVELOPMENT) {
     stats.end()
   }
